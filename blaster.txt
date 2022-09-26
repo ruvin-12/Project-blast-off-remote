@@ -1,4 +1,11 @@
 <!DOCTYPE html>
 <p>first change<pa>
+
 <p>second change this time from local to remote</p>
 <h1> Making local changes </h1>
+
+<p>second change this time from local to remote<p>
+<h1> Making Remote changes<h1>
+
+<h2> Conflict Resolved </h2>
+
