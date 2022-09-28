@@ -9,3 +9,5 @@
 
 <h2> Conflict Resolved </h2>
 
+<p> New to be pulled <p>
+
